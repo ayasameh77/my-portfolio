@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(0, 39, 0);
+}
+body{
+    background-color: rgb(0, 39, 0) !important;
+}
+.navbar {
+    color: rgb(255, 255, 255);
+}
+.card{
+    border: none !important;  
+}
+.section2{
+    background-color: rgb(0, 39, 0);
+}
+.section2 .card {
+    border: none !important;  
+    text-align: center;
+    align-items: center;
+    background-color: rgb(0, 39, 0);
+}
+.card-body .card text {
+    display: flex;
+}
+.section2 h6 {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.div1 {
+    display: flex;
+}
+.div1 p {
+    margin-left: 10px;
+    color: #b0acac;
+}
+.sec3 .container-fluid {
+    display: flex;
+    background-color: rgb(0, 39, 0);
+    color: #f3e5e5;
+    text-align: center;
+    align-items: center;
+    width: 75%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.sec3 .container-fluid .card-title{
+    color: #ffffff;
+    text-align: center;
+    align-items: center;
+}
+.sec4 .container-fluid {
+    display: flex;
+    color:#cdcdbc;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.sec4 .one {
+    width: 35%;
+}
+.sec4 .one h6 {
+    color: #daa520;
+}
+.sec4 .one p {
+    color: #949491;
+}
+.sec4 .one .date {
+    color: #daa520;
+}
+.sec4 .two {
+    margin-top: 15px;
+    width: 70%;
+}
+.sec4 .two .spc {
+    display: flex;
+}
+.sec4 .two .spc span{
+    padding-right: 15px;
+}
+.sec4 .two .spc p {
+    color: #949491;
+}
+form p{
+    padding-right: 40px;
+}
+
